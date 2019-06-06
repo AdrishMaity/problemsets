@@ -23,6 +23,9 @@ each number in a separate line (1 ≤ k, l, m, n ≤ 10, 1 ≤�
 
 Output
 Output the number of damaged dragons.
+
+link: http://codeforces.com/problemset/problem/148/A
+
 '''
 
 def main():
