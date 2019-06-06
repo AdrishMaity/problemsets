@@ -29,7 +29,7 @@ Print the resulting string. It is guaranteed that this string is not empty.
 def replaceVowelsAndAddDot(str):
     newStr = ''
     for s in str:
-        if s.lower() not in ['a','e','i','o','u']:
+        if s.lower() not in ['a','e','i','o','u','y']:
             newStr += '.'+s
     return newStr.lower()
 
