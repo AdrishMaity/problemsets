@@ -11,3 +11,4 @@
 ### 7-June-2019
 
 6. Buy a Shovel
+7. Fedor and New Game
