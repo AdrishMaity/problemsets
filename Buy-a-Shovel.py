@@ -26,6 +26,8 @@ Polycarp has enough money to buy any number of shovels.
 Output
 Print the required minimum number of shovels Polycarp has to buy so that he can pay for them without any change.
 
+Link: http://codeforces.com/problemset/problem/732/A
+
 '''
 
 

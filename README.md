@@ -12,3 +12,4 @@
 
 6. Buy a Shovel
 7. Fedor and New Game
+8. Random Teams (**)

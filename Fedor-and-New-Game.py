@@ -28,6 +28,7 @@ that describes the i-th player's army. We remind you that Fedor is the (m + 
 Output
 Print a single integer — the number of Fedor's potential friends.
 
+Link: http://codeforces.com/problemset/problem/467/B
 
 '''
 
